@@ -1,0 +1,5 @@
+
+Endpoint
+dbo.cuaeycy9b5bz.us-west-2.rds.amazonaws.com
+Port
+1433
